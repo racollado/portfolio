@@ -4,7 +4,7 @@ export default function Projects({ setPage, setProject }) {
   return (
     <div className="flex flex-wrap -m-4 px-10">
       {projects.map((project) => (
-        <a key={project.title} className="sm:w-1/2 lg:w-1/3 p-4">
+        <a key={project.title} className="min-w-[100%] sm:min-w-0 sm:w-1/2 lg:w-1/3 p-4">
           <div
             className="flex relative h-96 cursor-pointer"
             onClick={() => {
