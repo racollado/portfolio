@@ -1,0 +1,69 @@
+[
+  {
+    "title": "TEMPO",
+    "category": "Research",
+    "short": "A music-emotion data collection tool and data sonification.",
+    "long": "TEMPO stands for The Electronic Music Perception Organizer. The goals of this project are to produce a collection of crowd-sourced data reflecting the emotional perception of various electronic music pieces and create an interactive data sonification for the collected data. This project was developed in 2023 for the computer science independent work seminar Digital Humanities, under the advising of Professor Brian Kernighan of the Princeton COS department. Created using HTML, Tailwind CSS, React, and AWS.",
+    "image": "./tempo.png",
+    "links": [
+      {
+        "name": "Website",
+        "ref": "https://tempoproject.org"
+      },
+      {
+        "name": "Full Research Paper",
+        "ref": "https://drive.google.com/file/d/10md2EnvPPBrCqeg4iSIwSrpYYo-TmRiW/view?usp=sharing"
+      },
+      {
+        "name": "Recorded Oral Presentation",
+        "ref": "https://youtu.be/G4P8tHT2Twk"
+      },
+      {
+        "name": "GitHub",
+        "ref": "https://github.com/racollado/tempo-project"
+      }
+    ]
+  },
+  {
+    "title": "Sircles",
+    "category": "Interactive Media",
+    "short": "A minimalist physics sandbox and music generator.",
+    "long": "Sircles is a minimalist physics sandbox and music generator developed in 2021 as a final project for MUS314: Computer and Electronic Music through Programming. Users click to place a circle that grows in size; when it collides with a wall or another circle, it resonates with a tone pitched proportionally to its size upon collision. Created in Unity alongside the programming languages C# and ChucK. The web version of Sircles is currently in development, since Chunity (audio plugin) lacks robust WebGL documentation.",
+    "image": "./sircles.png",
+    "links": [
+      {
+        "name": "Download for MacOS (zip)",
+        "ref": "https://drive.google.com/file/d/1rbCyzc3cajICmE5AnWL02803qAxtu39z/view?usp=sharing"
+      },
+      {
+        "name": "Play in Browser (NO SOUND)",
+        "ref": "https://rcollado.itch.io/sircles"
+      },
+      {
+        "name": "Demo Video",
+        "ref": "https://youtu.be/blEBRN4z0fo"
+      },
+      {
+        "name": "Unity Project Files",
+        "ref": "https://drive.google.com/drive/folders/1Gr5Wmz6hUElnwSi-oPsNEcIS6D6tpu61?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "title": "Electronic Music Catalog",
+    "category": "Music",
+    "short": "My greatest hits.",
+    "long": "A collection of some of my electronic music projects, including... \n \n - Order (The Sound of Sorting): A piece of music programmed in ChucK, using the insertion sort algorithm and user input to generate a random piece of music in the style of Ryoji Ikeda. \n - Toople: A wooden ruler and my web development professor were sampled in this song completely produced in Audacity. \n - I Am Sitting In A Dentist's Office: A stereo soundscape, rhythmic at times, made exclusively with dental equipment. \n - Burnin' Club: A Jersey Club remix of \"Burning Up\" by Donnel Pitman. \n - Love and Rejection: A synthesized overdub of Binkles, the Sphinx cat from TikTok. \n - Okay Now: A song about personal triumphs, made using only vocal samples. \n - Sick Modular Improvˣ: A modular synth improvisation made while in COVID isolation.",
+    "image": "./modular.png",
+    "links": [
+      {
+        "name": "Explore the Catalog!",
+        "ref": "https://drive.google.com/drive/folders/1DKXqPwHXNvaKfjUilRCDIQNTXL4g26Y2?usp=drive_link"
+      },
+      {
+        "name": "Sick Modular Improvˣ on YouTube",
+        "ref": "https://www.youtube.com/watch?v=TcUlzg4FeP4"
+      }
+    ]
+  }
+]
