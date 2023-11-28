@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     screens: {
+      'ze': '0px',
+      // => @media (min-width: 0px) { ... }
+      
       'sm': '640px',
       // => @media (min-width: 640px) { ... }
 

@@ -17,7 +17,7 @@ export default function ProjectPage({ project, setPage, hasSubdirectory }) {
   }
 
   return (
-    <div className="sm:px-8 md:px-[100px]">
+    <div className="ze:px-8 md:px-[100px]">
       <div className="md:w-[50%] md:float-left md:pr-8 pb-10">
         <button
           type="button"
@@ -39,10 +39,10 @@ export default function ProjectPage({ project, setPage, hasSubdirectory }) {
           alt="gallery"
           className="md:hidden max-w-[100%] py-4"
         />
-        <p className="font-scp whitespace-pre-line">{project.long}</p>
+        <p className="font-scp whitespace-pre-line md:pt-8">{project.long}</p>
         {projectLinks}
       </div>
-      <div className="sm:hidden md:block md:w-[50%] md:float-left md:pl-8">
+      <div className="ze:hidden md:block md:w-[50%] md:float-left md:pl-8">
         <img
           src={project.image}
           alt="gallery"
