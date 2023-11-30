@@ -2,7 +2,7 @@ import projects from "./projects.json";
 
 export default function Projects({ setPage, setProject }) {
   return (
-    <div className="flex flex-wrap -m-4 px-10">
+    <div className="flex flex-wrap px-10 max-w-[100%]">
       {projects.map((project) => (
         <a key={project.title} className="min-w-[100%] sm:min-w-0 sm:w-1/2 lg:w-1/3 p-4">
           <div
