@@ -71,7 +71,7 @@
     "category": "About Me",
     "short": "Me on paper.",
     "long": "My general résumé (general background, work experience, awards and recognitions, technical skills) and my music résumé (music coursework, performance experiences).",
-    "image": "./modular.png",
+    "image": "./resume.png",
     "links": [
       {
         "name": "General Résumé",
