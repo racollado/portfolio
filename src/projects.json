@@ -57,12 +57,29 @@
     "image": "./modular.png",
     "links": [
       {
-        "name": "Explore the Catalog!",
+        "name": "Explore the Catalog",
         "ref": "https://drive.google.com/drive/folders/1DKXqPwHXNvaKfjUilRCDIQNTXL4g26Y2?usp=drive_link"
       },
       {
-        "name": "Sick Modular Improvˣ on YouTube",
+        "name": "Sick Modular Improvˣ (YouTube)",
         "ref": "https://www.youtube.com/watch?v=TcUlzg4FeP4"
+      }
+    ]
+  },
+  {
+    "title": "My Résumés",
+    "category": "About Me",
+    "short": "Me on paper.",
+    "long": "My general résumé (general background, work experience, awards and recognitions, technical skills) and my music résumé (music coursework, performance experiences).",
+    "image": "./modular.png",
+    "links": [
+      {
+        "name": "General Résumé",
+        "ref": "https://drive.google.com/file/d/18QkG03N6YqfNMzctX01s7FUtD84dBYFi/view?usp=sharing"
+      },
+      {
+        "name": "Music Résumé",
+        "ref": "https://drive.google.com/file/d/1iXUbd4mDK3vbIOm2PqMhwDlCfV5VWp07/view?usp=sharing"
       }
     ]
   }

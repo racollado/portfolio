@@ -24,6 +24,10 @@ const router = createBrowserRouter([
     path: "/emusic",
     element: <App hasSubdirectory={true} projectData={projects[2]} />,
   },
+  {
+    path: "/resumes",
+    element: <App hasSubdirectory={true} projectData={projects[3]} />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
