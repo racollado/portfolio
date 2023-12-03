@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Projects from "./Projects";
 import ProjectPage from "./ProjectPage";
+import { Analytics } from '@vercel/analytics/react';
 
 function App({ hasSubdirectory, projectData }) {
   const [page, setPage] = useState(hasSubdirectory ? "project" : "home");
@@ -22,6 +23,7 @@ function App({ hasSubdirectory, projectData }) {
         <h2 className="text-center font-scp">A work in progress!</h2>
       </div>
       {mainContent}
+      <Analytics />
     </>
   );
 }
