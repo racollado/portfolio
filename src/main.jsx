@@ -28,6 +28,10 @@ const router = createBrowserRouter([
     path: "/resumes",
     element: <App hasSubdirectory={true} projectData={projects[3]} />,
   },
+  {
+    path: "/luka",
+    element: <App hasSubdirectory={true} projectData={"luka"} />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(

@@ -2,6 +2,7 @@ import { useState } from "react";
 import Projects from "./Projects";
 import ProjectPage from "./ProjectPage";
 import { Analytics } from '@vercel/analytics/react';
+import Luka from "./Luka";
 
 function App({ hasSubdirectory, projectData }) {
   const [page, setPage] = useState(hasSubdirectory ? "project" : "home");
@@ -9,7 +10,11 @@ function App({ hasSubdirectory, projectData }) {
 
   let mainContent = <Projects {...{ setPage, setProject }} />;
   if (page == "project") {
-    mainContent = <ProjectPage {...{ setPage, project, hasSubdirectory }} />;
+    if (project == "luka") {
+      mainContent = <Luka/>;
+    } else {
+      mainContent = <ProjectPage {...{ setPage, project, hasSubdirectory }} />;
+    }
   }
 
   return (
