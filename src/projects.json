@@ -3,7 +3,7 @@
     "title": "Bravo, Director",
     "category": "Project",
     "short": "A one-man musical satire about post-AI creativity.",
-    "long": "\"Bravo, Director\" is my master's thesis project, a one-person musical satire about post-AI creativity and how creative and artistic values have shifted as a result of the internet and AI. The show and its interfaces were written, programmed, composed, produced, and performed by me. \"Bravo, Director\" premiered at the DramaTech Theatre on April 20, 2026.",
+    "long": "\"Bravo, Director\" is my master's thesis project, a one-person musical satire about post-AI creativity and how creative and artistic values have shifted as a result of the internet and AI. The show and its interfaces were written, programmed, composed, produced, and performed by me. \"Bravo, Director\" premiered at the DramaTech Theatre on April 20, 2026 with a talkback led by Thomas Brazzle after the show. I was advised by Professor Jason Freeman and was funded by the Georgia Tech Arts Microgrant.",
     "image": "./bravo.jpg",
     "links": [
       {
@@ -11,13 +11,21 @@
         "ref": "https://www.youtube.com/watch?v=qoAK9d_af1E"
       },
       {
-        "name": "Project Poster",
+        "name": "Research Poster",
         "ref": "https://drive.google.com/file/d/1Fl1n38yHqKCLWDXhjy6i8i_Qy6hl-MGs/view?usp=sharing"
       },
       {
-        "name": "Project GitHub",
+        "name": "Detailed Paper",
+        "ref": "https://drive.google.com/file/d/1Fl1n38yHqKCLWDXhjy6i8i_Qy6hl-MGs/view?usp=sharing"
+      },
+      {
+        "name": "GitHub",
         "ref": "https://github.com/racollado/bravodirector"
-      }
+      },
+      {
+        "name": "Initial Proposal",
+        "ref": "https://drive.google.com/file/d/1Fl1n38yHqKCLWDXhjy6i8i_Qy6hl-MGs/view?usp=sharing"
+      },
     ]
   },
   {
