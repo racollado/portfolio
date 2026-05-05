@@ -1,5 +1,26 @@
 [
   {
+    "title": "Bravo, Director",
+    "category": "Project",
+    "short": "A one-man musical satire about post-AI creativity.",
+    "long": "\"Bravo, Director\" is my master's thesis project, a one-person musical satire about post-AI creativity and how creative and artistic values have shifted as a result of the internet and AI. The show and its interfaces were written, programmed, composed, produced, and performed by me. \"Bravo, Director\" premiered at the DramaTech Theatre on April 20, 2026.",
+    "image": "./bravo.png",
+    "links": [
+      {
+        "name": "Show Recording",
+        "ref": "https://www.youtube.com/watch?v=qoAK9d_af1E"
+      },
+      {
+        "name": "Project Poster",
+        "ref": "https://www.youtube.com/watch?v=qoAK9d_af1E"
+      },
+      {
+        "name": "Project GitHub",
+        "ref": "https://drive.google.com/file/d/1iXUbd4mDK3vbIOm2PqMhwDlCfV5VWp07/view?usp=sharing"
+      }
+    ]
+  },
+  {
     "title": "TEMPO",
     "category": "Research",
     "short": "A music-emotion data collection tool and data sonification.",

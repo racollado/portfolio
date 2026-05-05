@@ -14,23 +14,27 @@ const router = createBrowserRouter([
   },
   {
     path: "/tempo",
-    element: <App hasSubdirectory={true} projectData={projects[0]} />,
-  },
-  {
-    path: "/sircles",
     element: <App hasSubdirectory={true} projectData={projects[1]} />,
   },
   {
-    path: "/emusic",
+    path: "/sircles",
     element: <App hasSubdirectory={true} projectData={projects[2]} />,
   },
   {
-    path: "/resumes",
+    path: "/emusic",
     element: <App hasSubdirectory={true} projectData={projects[3]} />,
+  },
+  {
+    path: "/resumes",
+    element: <App hasSubdirectory={true} projectData={projects[4]} />,
   },
   {
     path: "/luka",
     element: <App hasSubdirectory={true} projectData={"luka"} />,
+  },
+  {
+    path: "/bravo",
+    element: <App hasSubdirectory={true} projectData={projects[0]} />,
   },
 ]);
 
